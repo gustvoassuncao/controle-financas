@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# App com Controle de Finanças 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App web para calcular finanças do mês. 
+
+
+Surge
+https://control-financas.surge.sh/
+
 
 ## Available Scripts
 
