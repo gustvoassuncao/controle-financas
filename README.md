@@ -6,6 +6,8 @@ App web para calcular finanças do mês.
 - React Js 
 - Styled Components (CSS) 
 - Local Storage para simular API, utilizando o próprio navegador
+- Font Awesome
+
 
 ## Surge
 https://control-financas.surge.sh/
