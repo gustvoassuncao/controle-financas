@@ -1,4 +1,4 @@
-# App com Controle de Finanças 🧾
+# Controle de Finanças 🧾
 
 App web para calcular finanças do mês. 
 
